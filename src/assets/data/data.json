@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "salutation": "Mrs",
+        "title": "Dr",
+        "firstName": "Vinay Kumar",
+        "surname": "Sangareddy Peta",
+        "phone": "1111111111",
+        "email": "sp.vinay.k97@gmail.com",
+        "gender": "yes"
+    },
+    {
+        "id": "2",
+        "salutation": "Mrs",
+        "title": "Dr",
+        "firstName": "Sidhartha",
+        "surname": "Sidhartha",
+        "phone": "2222222222",
+        "email": "sidd@gmail.com",
+        "gender": "yes"
+    },
+    {
+        "id": "3",
+        "salutation": "Mrs",
+        "title": "Ph",
+        "firstName": "Sadiq",
+        "surname": "Sadiq",
+        "phone": "3333333333",
+        "email": "Sadiq@gmail.com",
+        "gender": "yes"
+    }
+]
